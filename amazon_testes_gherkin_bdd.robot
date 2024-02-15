@@ -27,9 +27,6 @@ Caso de Teste 01 - Acesso ao menu "MENU_ELETRONICO"
     Dado que estou na home page da Amazon.com.br
     Quando acessar o menu "Eletrônicos"
     Então a categoria "Computadores e Informática" deve ser exibida na página
-    #o título da página deve ficar "Eletrônicos e Tecnologia | Amazon.com.br"
-    #E o texto "Eletrônicos e Tecnologia" deve ser exibido na página
-    #E a categoria "Computadores e Informática" deve ser exibida na página
     
 #Caso de Teste 02 - Pesquisa de um Produto
 #   [Documentation]    Esse teste valida a busca dos produtos
@@ -37,7 +34,6 @@ Caso de Teste 01 - Acesso ao menu "MENU_ELETRONICO"
    #Dado que estou na home page da Amazon.com.br
    #Quando pesquisar pelo produto "Xbox Series S"
    #Então o título da página deve ficar "Amazon.com.br : Xbox Series S"
-   #E um produto da linha "Xbox Series S" deve ser mostrado na página
 
 Caso de Testes 03 - Adicionar Produto no Carrinho
     #Dado que estou na home page da amazon.com.br
